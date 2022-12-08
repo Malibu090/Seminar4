@@ -1,0 +1,15 @@
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.csproj.AssemblyReference.cache
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.AssemblyInfoInputs.cache
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.AssemblyInfo.cs
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.csproj.CoreCompileInputs.cache
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\bin\Debug\net6.0\Task28.exe
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\bin\Debug\net6.0\Task28.deps.json
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\bin\Debug\net6.0\Task28.runtimeconfig.json
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\bin\Debug\net6.0\Task28.dll
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\bin\Debug\net6.0\Task28.pdb
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.dll
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\refint\Task28.dll
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.pdb
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\Task28.genruntimeconfig.cache
+C:\Users\Malya\Desktop\Seminars\Seminar4\Task28\obj\Debug\net6.0\ref\Task28.dll
